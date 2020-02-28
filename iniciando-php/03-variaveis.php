@@ -1,0 +1,23 @@
+<?php
+    $nome = "School of Net";
+    echo $nome;
+    $nome = "Iniciando com php";
+    echo "\n";
+    echo $nome;
+    $nome = 5000;
+    echo "\n";
+    echo $nome;
+    $numero = 5000;
+    echo "\n";
+    echo $numero;
+    $NOME = "School of Net";
+    $NOME234 = "School of Net outra variavel";
+    $nome2213 = "aasdfdghjklç";
+    $primeiro_nome = "luiz";
+    $primeiroNome = "luiz";
+    $variavelTrue = true;
+    $variavelFalse = false;
+    echo "\n";
+    echo $variavelTrue;
+    echo "\n";
+    echo $variavelFalse;
