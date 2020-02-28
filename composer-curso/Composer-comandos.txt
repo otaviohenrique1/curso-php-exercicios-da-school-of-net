@@ -1,0 +1,12 @@
+composer
+composer --version
+composer -v
+composer self-update -> Atualiza a versao do Composer
+composer init
+composer install -> Instala dependencias
+composer --help -> Mostra a ajuda
+composer require monolog/monolog -> Adiciona dependencias
+    -https://packagist.org/packages/monolog/monolog
+    -https://github.com/Seldaek/monolog
+composer remove phpunit/phpunit -> Remove dependencias
+composer dump-autoload -> refaz a lista de autoload do composer e acrescentoa outro autoload na lista

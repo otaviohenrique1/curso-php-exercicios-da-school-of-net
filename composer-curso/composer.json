@@ -1,0 +1,22 @@
+{
+    "name": "otaviofig/curso-composer-son",
+    "description": "Pacote do curso composer da son",
+    "type": "library",
+    "require-dev": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Otavio Henrique",
+            "email": "OtavioHenLimSil@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Otaviofig\\CursoSON\\": "src"
+        }
+    },
+    "require": {
+        "monolog/monolog": "^2.0"
+    }
+}
